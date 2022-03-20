@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317896720374",
+    "project_id": "life-is-lie-9df7d",
+    "storage_bucket": "life-is-lie-9df7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317896720374:android:f4881aae2fc6bb5349d1d7",
+        "android_client_info": {
+          "package_name": "com.unicorn3d.lifeislie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317896720374-9ka4pq4i7isu7780dqool5fhsgd2p72k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdgDY_5yM_0yVwwmyZ2slJJZ2KI1NMxxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317896720374-9ka4pq4i7isu7780dqool5fhsgd2p72k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
