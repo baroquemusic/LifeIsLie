@@ -15,3 +15,4 @@ class MainActivity : AppCompatActivity() {
         firebaseAnalytics = Firebase.analytics
     }
 }
+
